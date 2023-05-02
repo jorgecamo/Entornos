@@ -20,7 +20,9 @@ Para crear listas es muy facil, solo tienes que poner un `1.` y el texto que qui
 - Segundo
 - Tercero
 ---
-Para poner codigo de algun lenguaje es con `Y pones el codigo`.
+Para poner codigo de algun lenguaje es con:` uno a cada extremo.
+
+ `Y pones el codigo`.
 
 ---
 Las lineas horizontales que estas viendo se ponen con tres lineas seguidas: `---`
@@ -31,6 +33,8 @@ Para añadir un enlace es de la siguiente forma `[IES Salvador Gadea](https://ie
 ---
 Y para añadir una imagen es practicamente de la misma forma que un enlace:
 `![TUX](https://www.markdownguide.org/assets/images/tux.png)`
+
+
 ![TUX](https://www.markdownguide.org/assets/images/tux.png)
 ---
 Para crear tablas es de la siguiente forma:
@@ -62,8 +66,8 @@ Frase1 con nota al pie [^1]
 Para hacer una lista como si fuese un checkbox en html es de esta forma:
 `- []` Y el texto que quieras poner , por ejemplo: 
 - [x] Ver una serie
-- [] Ver una peli
-- [] Jugar a un juego
+- [ ] Ver una peli
+- [ ] Jugar a un juego
 ---
 Y si quieres animar tu md puedes poner emojis con : `:joy:`
  :joy:
