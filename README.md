@@ -42,19 +42,19 @@ Para crear tablas es de la siguiente forma:
 | ------- | -------- |
 | Manolo | Lama |
 
-{"| Nombre | Apellido |"
-"| ------- | -------- |"
-"| Manolo | Lama |"
-}
+```| Nombre | Apellido |
+| ------- | -------- |
+| Manolo | Lama |
+```
 ---
-Para poner un bloque de codigo de mas de una linea es usando `{ }` y dentro las 
+Para poner un bloque de codigo de mas de una linea es usando ````` y dentro las 
 frases con comillas: 
 
-{
+```
   "Nombre": "Manolo",
   "Apellido": "Lama",
   "edad": 18
-}
+```
 
 ---
 Para crear una nota al pie tienes que poner una marca con `:[numero] y al final de la nota lo mismo seguido de : ` 
@@ -71,4 +71,8 @@ Para hacer una lista como si fuese un checkbox en html es de esta forma:
 ---
 Y si quieres animar tu md puedes poner emojis con : `:joy:`
  :joy:
+---
+
+[Enlace fichero git.md](git.md)
+
 ---
